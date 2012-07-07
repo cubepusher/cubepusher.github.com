@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://cubepusher.com
+title: cubepusher
+subtitle: Eurogames of many flavors.
+author: Stephen Tudor
 simple_search: http://google.com/search
-description:
+description: Stephen Tudor writes about his affinity for strategy-oriented board games, primarily those designed in the European style.
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
