@@ -3,8 +3,8 @@
 # ----------------------- #
 
 url: http://cubepusher.com
-title: cubepusher
-subtitle: Eurogames of many flavors.
+title: CUBE PUSHER
+subtitle: In appreciation of modern board and card games.
 author: Stephen Tudor
 simple_search: http://google.com/search
 description: Stephen Tudor writes about his affinity for strategy-oriented board games, primarily those designed in the European style.
@@ -27,7 +27,7 @@ email:
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
 root: /
-permalink: /blog/:year/:month/:day/:title/
+permalink: /blog/:title/
 source: source
 destination: public
 plugins: plugins
@@ -36,7 +36,7 @@ category_dir: blog/categories
 markdown: rdiscount
 pygments: false # default python pygments have been replaced by pygments.rb
 
-paginate: 10          # Posts per page on the blog index
+paginate: 1           # Posts per page on the blog index
 pagination_dir: blog  # Directory base for pagination URLs eg. /blog/page/2/
 recent_posts: 5       # Posts in the sidebar Recent Posts section
 excerpt_link: "Read on &rarr;"  # "Continue reading" link text at the bottom of excerpted articles
@@ -64,8 +64,8 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
-twitter_tweet_count: 4
+twitter_user: cubepushr
+twitter_tweet_count: 3
 twitter_show_replies: false
 twitter_follow_button: true
 twitter_show_follower_count: false
@@ -89,7 +89,7 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
+disqus_short_name: cubepusher
 disqus_show_comment_count: false
 
 # Google Analytics
