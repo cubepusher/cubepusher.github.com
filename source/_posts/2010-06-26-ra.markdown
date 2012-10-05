@@ -1,0 +1,130 @@
+---
+layout: post
+title: "Ra"
+date: 2010-06-26 10:41
+comments: true
+categories: review
+---
+
+For my first review of a board game, I’d like to feature a true classic:
+[Ra](http://www.boardgamegeek.com/game/12), by prolific game designer Reiner
+Knizia. Knizia has designed hundreds of board and card games, but among gamers,
+Ra is widely considered to be one of his finest creations.
+
+Ra is a [Eurogame](http://en.wikipedia.org/wiki/Eurogame) with a pasted-on
+Egyptian theme. What I mean by this is that, in the end, it’s really an auction
+game that could just as easily have been about space ships, dinosaurs, or fine
+art. It could have been about anything else, and it would play exactly the same
+way. The gameplay has little to do with Egypt, and the theme has little to do
+with what makes Ra a great game. The credit for that goes to the game’s core
+mechanics, and that is what places Ra squarely in the Eurogame camp: Its main
+focus is on the gameplay itself, rather than the theme.
+
+I’m reviewing the Überplay edition of Ra, which I own. I understand that
+Überplay is now defunct, but Rio Grande Games has picked up the rights to
+publish the next edition Ra, and that printing will probably hit shelves in
+2009.
+
+What’s in the box?
+------------------
+
+In addition to the nicely printed (and short) rules booklet, there is a board,
+a canvas bag, “sun” auction markers, scoring counters, a Ra figurine, and
+a bunch of cardboard tiles (and by a bunch of tiles, I mean a whole lot of
+tiles).
+
+The board is little more than a pair of “tracks” for auction tiles to sit on.
+Fortunately, it’s not entirely pointless, as it also contains a simple
+reference that reminds how the different types of tiles are scored. I suppose
+the only other justification for the board is its Egyptian-themed artwork,
+which can help reinforce an otherwise weak theme. As I’ve already pointed out,
+though, the theme is of no real importance to this game.
+
+When you score points in Ra, you receive little “tablets” with quasi-Egyptian
+numerals on them. They come in denominations of 1, 2, 5, and 10. A cool way to
+keep track of how many points you have throughout the game.
+
+The auction markers are wooden “sun” pieces, numbered 1-16. In an auction,
+players bid with these suns, and ties don’t happen because there are no
+duplicate numbers. The heart of the game, however, is the enormous complement
+of auction tiles, and there are quite a few of them. The different types of
+auction tiles you’ll come across are:
+
+* Pharaoh
+* Nile
+* Flood
+* Civilization
+* Monument
+* Disaster
+* God
+* Gold
+* Epoch
+
+How to play (in a nutshell)
+---------------------------
+
+*Ra* is all about **auctions**. Every auction gives players a chance to win a set
+of tiles. The basic gist is that you can choose to do one of three possible
+things on your turn:
+
+1.  Draw a tile from the bag and place it on the board.
+2.  Call for an auction to begin.
+3.  Discard one of your god tiles and claim a single tile of your choice
+    on the board.
+
+Scoring points
+--------------
+
+*Ra* is played in three rounds, or Epochs. An Epoch comes to an end when the *Ra*
+tile track fills up, or when everyone has played all their suns. At the end of
+each Epoch, players score points for the tiles they own. The goal is to have
+the most points at the end of the game.
+
+Elsewhere…
+----------
+
+In the interest of (relative) brevity, I won’t get into the details of the
+rules any further here, but BoardGameGeek has a downloadable PDF of the
+[rules](http://www.boardgamegeek.com/file/download/6057/RA.pdf) for those that
+are interested in learning more about how the game works. The BGG
+[forums](http://www.boardgamegeek.com/forum/0/boardgame/12) for *Ra* are also
+a great resource to check out if you have rules questions, or just want to read
+what other people have to say about the game. BGG also has a wonderful image
+gallery of people playing *Ra*, some of the playing pieces, etc.
+
+The Review
+----------
+
+*Ra* is such a simple, smart, easy-to-teach game. It’s just plain fun, and I’d
+recommend it to almost anybody, even many non-gamers. It plays pretty quickly,
+and the press-your-luck element is fantastic. Everyone I’ve introduced to *Ra*
+has loved it, too. Despite the loose-fitting theme, the game is still visually
+rich. Yelling “RA!” when you want to start an auction is a blast as well.
+I very highly recommend *Ra*.
+
+I would say that the biggest hurdle for newcomers to *Ra* would be picking up on
+how some of the scoring works, but even that isn’t too cumbersome. There’s
+a cheat sheet on the game board that summarizes the scoring very nicely, and
+it’s not too hard to get used to. Like most games, the best way to learn how to
+play it is to play it.
+
+The bidding is streamlined, and the other players’ suns are easy to read across
+the table, so you will always have an idea of how likely you are to win those
+tiles you want. There are often plenty of opportunities to bluff or force
+someone else to play their high sun too early, setting you up to win a bigger
+auction later. That is, if the Epoch doesn’t end first!
+
+There is wonderful tension in *Ra*. Players are constantly balancing the desire
+to wait and get the best value for their suns with the knowledge that they need
+to get what tiles they can before the end of the round arrives. The game is
+a ticking clock, and everyone feels it.
+
+In conclusion, *Ra* is one of my favorite games. It’s not a terribly heavy or
+complex strategy game, and there is a bit of luck/chaos due to the draw bag,
+but it still rewards smart play most of the time. Most importantly, it’s
+ridiculously fun, and doesn’t take all night to play. In the end, those two
+things are what makes it so much more likely to hit the table than some other
+really good games. Even if the Egyptian thing was just tacked on at the last
+minute.
+
+&mdash;Stephen Tudor
